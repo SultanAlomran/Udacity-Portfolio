@@ -1,0 +1,17 @@
+button{
+    display:block !important;
+}
+.btn1{
+    background-color:#2cf;
+    border-radius:4px;
+    color:white;
+    padding:10px;
+
+
+}
+.btn1:hover{
+    color:yellow;
+    background-color:dodgerblue;
+    width:100px;
+    height:100px;
+}
